@@ -2,7 +2,7 @@ public class Pattern
 {
     public static void main(String[] arg)
     {
-        System.out.println("hello hi ");
+        System.out.println("hello");
        
     }
 }
